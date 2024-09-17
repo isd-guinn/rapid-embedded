@@ -1,5 +1,5 @@
 #include <ESP32Servo.h>
-#include "lib/isd-dev-api/pinout.hpp"
+#include "src/isd-dev-api/src/isd-dev-pinout.hpp"
 
 #define ENA1_PIN 36
 #define IN1_PIN 37
